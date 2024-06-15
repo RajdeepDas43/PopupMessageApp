@@ -1,0 +1,14 @@
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\bin\Debug\net8.0-windows\PopupMessageApp.exe
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\bin\Debug\net8.0-windows\PopupMessageApp.deps.json
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\bin\Debug\net8.0-windows\PopupMessageApp.runtimeconfig.json
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\bin\Debug\net8.0-windows\PopupMessageApp.dll
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\bin\Debug\net8.0-windows\PopupMessageApp.pdb
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\PopupMessageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\PopupMessageApp.AssemblyInfoInputs.cache
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\PopupMessageApp.AssemblyInfo.vb
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\PopupMessageApp.vbproj.CoreCompileInputs.cache
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\PopupMessageApp.dll
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\refint\PopupMessageApp.dll
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\PopupMessageApp.pdb
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\PopupMessageApp.genruntimeconfig.cache
+C:\Users\RAJDEEP\Downloads\PopupMessageApp\obj\Debug\net8.0-windows\ref\PopupMessageApp.dll
