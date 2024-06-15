@@ -45,7 +45,7 @@ This file contains the main code for the application. It defines a Windows Form 
 
 2. **Navigate to the project directory**:
    ```sh
-   cd path/to/PopupMessageApp
+   cd PopupMessageApp
    ```
 
 3. **Clean the project**:
