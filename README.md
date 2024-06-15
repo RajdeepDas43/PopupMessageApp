@@ -96,6 +96,8 @@ Public Class Form1
 
     Public Sub New()
         Me.Text = "Popup Message App"
+        ' Show a message box with the specified content in the constructor
+        MessageBox.Show("Rajdeep Das, this is my Slidely AI task", "Slidely AI Task")
         AddHandler Me.Load, AddressOf Me.Form1_Load
     End Sub
 
