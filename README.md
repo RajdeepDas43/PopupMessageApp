@@ -140,3 +140,5 @@ End Class
   - **Application.Run(New Form1())**: Runs the form.
 
 This project serves as a simple example to demonstrate how to create a Windows Forms application in Visual Basic that displays a popup message. You can extend this example by adding more features and functionality as needed.
+
+Note: A more secure version of the pop-up message is under work in the authorization logic.
